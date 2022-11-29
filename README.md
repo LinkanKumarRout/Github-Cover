@@ -2,9 +2,10 @@
 - 👀 I’m interested in Web-Devlopment & Cyber Security
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on any Web-Devlopment Project
-- 📫 How to reach me...
-- Mail- linkankumarrout@gmail.com
+- 📫 How to reach me...linkankumarrout@gmail.com
 - ![](https://gitwar.herokuapp.com/badge?username=LinkanKumarRout)
+- ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black, https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+- 
 
 <!---
 LinkanKumarRout/LinkanKumarRout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
