@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any Web-Devlopment Project
 - 📫 How to reach me...
 - Mail- linkankumarrout@gmail.com
+- ![](https://gitwar.herokuapp.com/badge?username=LinkanKumarRout)
 
 <!---
 LinkanKumarRout/LinkanKumarRout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
