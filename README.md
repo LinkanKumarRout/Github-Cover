@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinkanKumarRout
 - 👀 I’m interested in Web-Devlopment & Cyber Security
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React & Node JS
 - 💞️ I’m looking to collaborate on any Web-Devlopment Project
 - 📫 How to reach me...
 - ![](https://img.shields.io/badge/linkankumarrout@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
